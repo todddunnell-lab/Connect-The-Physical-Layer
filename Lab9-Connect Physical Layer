@@ -1,0 +1,4 @@
+Some of the things that should be considered understanding the objective would be exploring router/switch chassis, ports and modular expansion slots. Being able to deploy correct cables based on the devices. You should also no how to use the command line to test connectivity.
+Copper Straight-Through was connected from switch to switch. Seriel DCE/fiber was connected to WAN links between routers.
+Some challenges with the Fiber cables. I got an error when I tried to use a single mode fiber instead of multimode fiber to connect switch 3 to switch 2.
+What I learned is to pay close attention to every detail from the cable to the correct port to use. Configurations will fail and not work if the physical cables and modules are mismatched.
